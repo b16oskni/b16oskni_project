@@ -35,7 +35,7 @@ public class Band {
     public String getName() {
         return name;
     }
-    
+
     public String getUrl() {
         return url;
     }
