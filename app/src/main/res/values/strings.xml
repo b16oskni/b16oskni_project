@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">b16oskni_project</string>
     <string name="about">About</string>
+    <string name="band_image">band image</string>
 </resources>
